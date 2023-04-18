@@ -20,6 +20,8 @@
 
 ## experiments
 
+### idea 0
+
 ```tests.emmet.html
   u+b+s+h+k+t
 
@@ -29,6 +31,12 @@
   <div class="hypermediation"></div>
   <div class="kings-and-queens"></div>
   <div class="calling-interface"></div>
+```
+
+### idea 1
+
+```
+#interpretation>((#masthead+p)+(.briefing+(nav>ul>li*3))+(h2+p+a[rel="next"])*2+.conclusion)
 ```
 
 ---
